@@ -1,6 +1,6 @@
 function Result=rein(R,Li)
-%Function describing the search for the minimum of the equation R
-%Li is the lower limit
+%Function describing the search for the minimum of the equation R.
+%Li is the lower limit.
 
 
 x0=Li;                      %Parameters of the fuction
